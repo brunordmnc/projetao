@@ -1,0 +1,2 @@
+http://localhost/godcomputer/
+http://localhost/wp-admin/
